@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "image1": "https://m.media-amazon.com/images/I/71SXGssxpwL._UX569_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/61q2PSwhrTL._UX569_.jpg",
+        "brand": "U.S. POLO ASSN.",
+        "title": "Cotton Formal Shirt",
+        "rating": 3,
+        "price": 1228,
+        "prevPrice": 1699,
+        "deal": 28
+    },
+    {
+        "id": 2,
+        "image1": "https://m.media-amazon.com/images/I/61fyHRSlWbL._UX679_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/61AF2RNr+BL._UX679_.jpg",
+        "brand": "Arctic Hunter",
+        "title": "Laptop Bag with USB Charging Port",
+        "rating": 3,
+        "price": 1783,
+        "prevPrice": 3899,
+        "deal": 54
+    },
+    {
+        "id": 3,
+        "image1": "https://m.media-amazon.com/images/I/81IY1jjsFBL._UX679_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/61tW76ETtqL._UX679_.jpg",
+        "brand": "Veirdo",
+        "title": "Tank Top (Pack of 2)",
+        "rating": 4,
+        "price": 479,
+        "prevPrice": 1999,
+        "deal": 76
+    },
+    {
+        "id": 4,
+        "image1": "https://m.media-amazon.com/images/I/61utX8kBDlL._UY625_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/61U70iqOAIL._UY695_.jpg",
+        "brand": "ASIAN",
+        "title": "Sports Running Shoes",
+        "rating": 5,
+        "price": 540,
+        "prevPrice": 1799,
+        "deal": 70
+    },
+    {
+        "id": 5,
+        "image1": "https://m.media-amazon.com/images/I/81ZdG7vKq2L._UX569_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/61nr4GhgNsL._UX569_.jpg",
+        "brand": "Amazon Brand",
+        "title": "Symactive Men T-Shirt",
+        "rating": 2,
+        "price": 289,
+        "prevPrice": 1499,
+        "deal": 81
+    },
+    {
+        "id": 6,
+        "image1": "https://m.media-amazon.com/images/I/71iVYZ2+RkL._UY550_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/61nbReGqhEL._UY550_.jpg",
+        "brand": "Fastrack",
+        "title": "Analog Men's Watch",
+        "rating": 4,
+        "price": 1580,
+        "prevPrice": 1975,
+        "deal": 20
+    },
+    {
+        "id": 7,
+        "image1": "https://m.media-amazon.com/images/I/71Brw1n5ByL._UX569_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/51hbnQENXYL._UX569_.jpg",
+        "brand": "Veirdo",
+        "title": "Printed T-Shirt (Pack of 2)",
+        "rating": 3,
+        "price": 699,
+        "prevPrice": 2399,
+        "deal": 71
+    },
+    {
+        "id": 8,
+        "image1": "https://m.media-amazon.com/images/I/614AVpLOb1L._UY879_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/61WnVIr+eOL._UX569_.jpg",
+        "brand": "Marks & Spencer",
+        "title": "Regular Fit Shirt",
+        "rating": 2,
+        "price": 1319,
+        "prevPrice": 2199,
+        "deal": 40
+    },
+    {
+        "id": 9,
+        "image1": "https://m.media-amazon.com/images/I/71tO5TXppYL._UY695_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/81epAFzMApL._UX695_.jpg",
+        "brand": "Red Chief",
+        "title": "Formal Shoes RC3500",
+        "rating": 3,
+        "price": 1526,
+        "prevPrice": 2799,
+        "deal": 45
+    },
+    {
+        "id": 10,
+        "image1": "https://m.media-amazon.com/images/I/71G+MV7WPyL._UY741_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/71FLAHTVv8L._UY741_.jpg",
+        "brand": "Maniac",
+        "title": "Dye Round Neck T-shirt",
+        "rating": 2,
+        "price": 499,
+        "prevPrice": 1299,
+        "deal": 60
+    }
+]

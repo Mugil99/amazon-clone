@@ -1,0 +1,112 @@
+[
+    {
+        "id": 61,
+        "image1": "https://m.media-amazon.com/images/I/517jkKdNhML.jpg",
+        "image2": "https://m.media-amazon.com/images/I/41ifTn0DjeS.jpg",
+        "brand": "IKZAI",
+        "title": "Bluetooth Smart Fitness Band Watch",
+        "rating": 2,
+        "price": 499,
+        "prevPrice": 1299,
+        "deal": 60
+    },
+    {
+        "id": 62,
+        "image1": "https://m.media-amazon.com/images/I/51MVfB-9YmL._SX522_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/61fLEPb8HRL._SX522_.jpg",
+        "brand": "Boat",
+        "title": "Airdopes 121v2",
+        "rating": 4,
+        "price": 1580,
+        "prevPrice": 1975,
+        "deal": 20
+    },
+    {
+        "id": 63,
+        "image1": "https://m.media-amazon.com/images/I/511mMK0LW2L._SX679_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/61B22fzv+cL._SX679_.jpg",
+        "brand": "Lenovo",
+        "title": "Tablet (11 inch (27.94 cm), 6 GB, 128 GB",
+        "rating": 3,
+        "price": 26499,
+        "prevPrice": 39000,
+        "deal": 32
+    },
+    {
+        "id": 64,
+        "image1": "https://m.media-amazon.com/images/I/61rq3n8ZrUL._SX522_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/715Dsu2jxWL._SX522_.jpg",
+        "brand": "Samsung Galaxy",
+        "title": "S6 Lite 26.31 cm (10.4 inch)",
+        "rating": 5,
+        "price": 24999,
+        "prevPrice": 30999,
+        "deal": 19
+    },
+    {
+        "id": 65,
+        "image1": "https://m.media-amazon.com/images/I/51vXFssr2bL._SX679_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/516yyojvDyL._SX679_.jpg",
+        "brand": "DOMO",
+        "title": "Slate SLP8 OS11 10.1-inch",
+        "rating": 2,
+        "price": 11970,
+        "prevPrice": 27970,
+        "deal": 52
+    },
+    {
+        "id": 66,
+        "image1": "https://m.media-amazon.com/images/I/61wqYsqU6AL._SX679_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/61RDtQf6LeL._SX679_.jpg",
+        "brand": "Samsung Galaxy",
+        "title": "Intel 12th Gen core i5 39.6cm",
+        "rating": 5,
+        "price": 64500,
+        "prevPrice": 83990,
+        "deal": 23
+    },
+    {
+        "id": 67,
+        "image1": "https://m.media-amazon.com/images/I/71NG3N6mJ3L._SX522_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/81i1kj8L+1L._SX522_.jpg",
+        "brand": "HP",
+        "title": "Pavilion Intel Core i7 14 inch",
+        "rating": 4,
+        "price": 79990,
+        "prevPrice": 99203,
+        "deal": 19
+    },
+    {
+        "id": 68,
+        "image1": "https://m.media-amazon.com/images/I/51gkDWHPvQL._SX522_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/615bKBy679L._SX522_.jpg",
+        "brand": "Lenovo",
+        "title": "IdeaPad D330 Intel Celeron N4020",
+        "rating": 4,
+        "price": 21797,
+        "prevPrice": 32090,
+        "deal": 32
+    },
+    {
+        "id": 69,
+        "image1": "https://m.media-amazon.com/images/I/61dVD28WPrL._SX679_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/51AS2Lh5jKL._SX679_.jpg",
+        "brand": "LG",
+        "title": "Ultrawide 29Wl50S 29 Inches",
+        "rating": 2,
+        "price": 17499,
+        "prevPrice": 29000,
+        "deal": 40
+    },
+    {
+        "id": 70,
+        "image1": "https://m.media-amazon.com/images/I/81+vXICYG4L._SX679_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/81b1JKv0TQL._SX679_.jpg",
+        "brand": "Lenovo",
+        "title": "Gaming G-Series Curved 27 inch",
+        "rating": 3,
+        "price": 19999,
+        "prevPrice": 23990,
+        "deal": 16
+    }
+]

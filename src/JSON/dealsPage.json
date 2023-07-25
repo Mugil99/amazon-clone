@@ -1,0 +1,222 @@
+[
+    {
+        "id": 10,
+        "image1": "https://m.media-amazon.com/images/I/71G+MV7WPyL._UY741_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/71FLAHTVv8L._UY741_.jpg",
+        "brand": "Maniac",
+        "title": "Dye Round Neck T-shirt",
+        "rating": 2,
+        "price": 499,
+        "prevPrice": 1299,
+        "deal": 60
+    },
+    {
+        "id": 6,
+        "image1": "https://m.media-amazon.com/images/I/71iVYZ2+RkL._UY550_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/61nbReGqhEL._UY550_.jpg",
+        "brand": "Fastrack",
+        "title": "Analog Men's Watch",
+        "rating": 4,
+        "price": 1580,
+        "prevPrice": 1975,
+        "deal": 20
+    },
+    {
+        "id": 26,
+        "image1": "https://m.media-amazon.com/images/I/61lZtJBldCL._UY695_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/41Obg1qBAKL.jpg",
+        "brand": "Bizarre Vogue",
+        "title": "Chain Strap Handbag",
+        "rating": 3,
+        "price": 354,
+        "prevPrice": 1499,
+        "deal": 76
+    },
+    {
+        "id": 29,
+        "image1": "https://m.media-amazon.com/images/I/51b5pVEkIXL._SX522_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/71GZijrMvCL._SX522_.jpg",
+        "brand": "RENEE",
+        "title": "Long Lasting Matte Finish",
+        "rating": 5,
+        "price": 600,
+        "prevPrice": 750,
+        "deal": 20
+    },
+    {
+        "id": 23,
+        "image1": "https://m.media-amazon.com/images/I/614YzxulktL._UY879_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/81m4gNkua2L._UY741_.jpg",
+        "brand": "Rhysley",
+        "title": "Floral Printed V- Neck Dress",
+        "rating": 2,
+        "price": 1499,
+        "prevPrice": 3099,
+        "deal": 52
+    },
+    {
+        "id": 14,
+        "image1": "https://m.media-amazon.com/images/I/813dYaCJLZL._SX522_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/81dIeXaSylL._SX522_.jpg",
+        "brand": "Saumic Craft",
+        "title": "Framed Wall Painting",
+        "rating": 5,
+        "price": 1499,
+        "prevPrice": 2499,
+        "deal": 40
+    },
+    {
+        "id": 18,
+        "image1": "https://m.media-amazon.com/images/I/71oU0TxLjXL._SX679_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/81s86kRrWFL._SX679_.jpg",
+        "brand": "Ormee",
+        "title": "Wooden Coffee Table",
+        "rating": 4,
+        "price": 11999,
+        "prevPrice": 29999,
+        "deal": 60
+    },
+    {
+        "id": 40,
+        "image1": "https://m.media-amazon.com/images/I/81xvKRhpMgL._SX522_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/71Sr6w9uDGL._SX522_.jpg",
+        "brand": "STANLEY",
+        "title": "Double Open End Spanner Set 8-Piece",
+        "rating": 2,
+        "price": 260,
+        "prevPrice": 341,
+        "deal": 24
+    },
+    {
+        "id": 20,
+        "image1": "https://m.media-amazon.com/images/I/41lWRBzKzgL.jpg",
+        "image2": "https://m.media-amazon.com/images/I/51X9IGloTjL.jpg",
+        "brand": "TechSrmaji",
+        "title": "Triangle Magazine Organizer Rack",
+        "rating": 4,
+        "price": 259,
+        "prevPrice": 599,
+        "deal": 57
+    },
+    {
+        "id": 36,
+        "image1": "https://m.media-amazon.com/images/I/71UpuxQrSlL._SX522_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/71t7kpNYpKL._SX522_.jpg",
+        "brand": "Spotzero",
+        "title": "Milton Prime Spin Mop",
+        "rating": 3,
+        "price": 1299,
+        "prevPrice": 2999,
+        "deal": 76
+    },
+    {
+        "id": 52,
+        "image1": "https://m.media-amazon.com/images/I/61Yn0jEnTDL._SX679_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/613eJMPbXyL._SX679_.jpg",
+        "brand": "SNOWIE SOFT",
+        "title": "Baby Stroller Storage Bag",
+        "rating": 4,
+        "price": 539,
+        "prevPrice": 1007,
+        "deal": 56
+    },
+    {
+        "id": 67,
+        "image1": "https://m.media-amazon.com/images/I/71NG3N6mJ3L._SX522_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/81i1kj8L+1L._SX522_.jpg",
+        "brand": "HP",
+        "title": "Pavilion Intel Core i7 14 inch",
+        "rating": 4,
+        "price": 79990,
+        "prevPrice": 99203,
+        "deal": 19
+    },
+    {
+        "id": 55,
+        "image1": "https://m.media-amazon.com/images/I/51EkbXEXGYL._SX679_PIbundle-2,TopRight,0,0_AA679SH20_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/61jqqsUKr-L._SX679_.jpg",
+        "brand": "MY NEWBORN",
+        "title": "Hooded Blanket Wrapper",
+        "rating": 2,
+        "price": 445,
+        "prevPrice": 1800,
+        "deal": 75
+    },
+    {
+        "id": 63,
+        "image1": "https://m.media-amazon.com/images/I/511mMK0LW2L._SX679_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/61B22fzv+cL._SX679_.jpg",
+        "brand": "Lenovo",
+        "title": "Tablet (11 inch (27.94 cm), 6 GB, 128 GB",
+        "rating": 3,
+        "price": 26499,
+        "prevPrice": 39000,
+        "deal": 32
+    },
+    {
+        "id": 76,
+        "image1": "https://m.media-amazon.com/images/I/710GdqOStIL._SX679_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/71tO0lLrzxL._SX679_.jpg",
+        "brand": "Samsung",
+        "title": "23 L Solo Microwave Oven",
+        "rating": 5,
+        "price": 6190,
+        "prevPrice": 8090,
+        "deal": 23
+    },
+    {
+        "id": 69,
+        "image1": "https://m.media-amazon.com/images/I/61dVD28WPrL._SX679_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/51AS2Lh5jKL._SX679_.jpg",
+        "brand": "LG",
+        "title": "Ultrawide 29Wl50S 29 Inches",
+        "rating": 2,
+        "price": 17499,
+        "prevPrice": 29000,
+        "deal": 40
+    },
+    {
+        "id": 72,
+        "image1": "https://m.media-amazon.com/images/I/81GjM+JY4DS._SX679_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/71UnlU3xIfL._SX679_.jpg",
+        "brand": "Havells",
+        "title": "1.0 Ton 3 Star Window AC",
+        "rating": 4,
+        "price": 22500,
+        "prevPrice": 33900,
+        "deal": 28
+    },
+    {
+        "id": 81,
+        "image1": "https://m.media-amazon.com/images/I/61prBVNnKKS._SX522_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/61o-da5XSQS._SX522_.jpg",
+        "brand": "DITYA ENTERPRISE",
+        "title": "Glass Jars with Lid Replacement",
+        "rating": 2,
+        "price": 356,
+        "prevPrice": 999,
+        "deal": 54
+    },
+    {
+        "id": 75,
+        "image1": "https://m.media-amazon.com/images/I/7140rbJD8ZL._SY741_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/714AIonoXJL._SX679_.jpg",
+        "brand": "Samsung",
+        "title": "2 Star Frost Free Refrigerator",
+        "rating": 2,
+        "price": 24690,
+        "prevPrice": 32990,
+        "deal": 25
+    },
+    {
+        "id": 89,
+        "image1": "https://m.media-amazon.com/images/I/71yfyhcUplL._SX679_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/71Wa7Z4JjlL._SX679_.jpg",
+        "brand": "TAKSH ENTERPRISE",
+        "title": "3 grid Dry Food Dispenser",
+        "rating": 2,
+        "price": 1099,
+        "prevPrice": 2999,
+        "deal": 63
+    }
+]

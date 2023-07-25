@@ -1,0 +1,112 @@
+[
+    {
+        "id": 81,
+        "image1": "https://m.media-amazon.com/images/I/61prBVNnKKS._SX522_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/61o-da5XSQS._SX522_.jpg",
+        "brand": "DITYA ENTERPRISE",
+        "title": "Glass Jars with Lid Replacement",
+        "rating": 2,
+        "price": 356,
+        "prevPrice": 999,
+        "deal": 54
+    },
+    {
+        "id": 82,
+        "image1": "https://m.media-amazon.com/images/I/8185ZAEOCcL._SX522_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/71JEtxiG5XL._SX522_.jpg",
+        "brand": "BAUT",
+        "title": "Food Grain Storage",
+        "rating": 4,
+        "price": 1299,
+        "prevPrice": 1670,
+        "deal": 20
+    },
+    {
+        "id": 83,
+        "image1": "https://m.media-amazon.com/images/I/61OHduNb0gL._SX522_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/51B3n0XohCL.jpg",
+        "brand": "BESTAQUA",
+        "title": "Glass Pickle Jar - 350 ml",
+        "rating": 3,
+        "price": 749,
+        "prevPrice": 1499,
+        "deal": 46
+    },
+    {
+        "id": 84,
+        "image1": "https://m.media-amazon.com/images/I/91H3kXo0-7S._SX679_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/91tdVvUuo-S._SX679_.jpg",
+        "brand": "BackSpace",
+        "title": "Hand Painted Ceramic Jar",
+        "rating": 5,
+        "price": 1499,
+        "prevPrice": 1799,
+        "deal": 30
+    },
+    {
+        "id": 85,
+        "image1": "https://m.media-amazon.com/images/I/51Z0zSbIfHL._SX679_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/61bhaCpqvuS._SX679_.jpg",
+        "brand": "MR Worldshop",
+        "title": "Electric Multi Cooker Kettle",
+        "rating": 2,
+        "price": 1199,
+        "prevPrice": 1999,
+        "deal": 20
+    },
+    {
+        "id": 86,
+        "image1": "https://m.media-amazon.com/images/I/71o1CSMmDwL._SX679_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/61BW50rSF8L._SX679_.jpg",
+        "brand": "Perolike",
+        "title": "Electric Meat Grinder",
+        "rating": 5,
+        "price": 1299,
+        "prevPrice": 2699,
+        "deal": 52
+    },
+    {
+        "id": 87,
+        "image1": "https://m.media-amazon.com/images/I/51hneG-V7NS._SX679_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/61RLvbAz7xS._SX679_.jpg",
+        "brand": "Oceanx",
+        "title": "Mixer Hand Blender",
+        "rating": 4,
+        "price": 299,
+        "prevPrice": 599,
+        "deal": 50
+    },
+    {
+        "id": 88,
+        "image1": "https://m.media-amazon.com/images/I/510oG0X28HL.jpg",
+        "image2": "https://m.media-amazon.com/images/I/71XbaFx7X9L._SX679_.jpg",
+        "brand": "JVS",
+        "title": "2-Tier Countertop Rack",
+        "rating": 4,
+        "price": 779,
+        "prevPrice": 995,
+        "deal": 22
+    },
+    {
+        "id": 89,
+        "image1": "https://m.media-amazon.com/images/I/71yfyhcUplL._SX679_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/71Wa7Z4JjlL._SX679_.jpg",
+        "brand": "TAKSH ENTERPRISE",
+        "title": "3 grid Dry Food Dispenser",
+        "rating": 2,
+        "price": 1099,
+        "prevPrice": 2999,
+        "deal": 63
+    },
+    {
+        "id": 90,
+        "image1": "https://m.media-amazon.com/images/I/61yx4nIGiFL._SX679_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/616d8r6IvSL._SX679_.jpg",
+        "brand": "MONKER",
+        "title": "Vegetable Cutter with Drain Basket",
+        "rating": 3,
+        "price": 420,
+        "prevPrice": 1499,
+        "deal": 72
+    }
+]

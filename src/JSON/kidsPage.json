@@ -1,0 +1,112 @@
+[
+    {
+        "id": 51,
+        "image1": "https://m.media-amazon.com/images/I/71AGHg6QUoL._SX679_PIbundle-9,TopRight,0,0_AA679SH20_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/61wkyxB29XL._SX679_.jpg",
+        "brand": "Supples",
+        "title": "Baby Wet Wipes",
+        "rating": 2,
+        "price": 575,
+        "prevPrice": 1169,
+        "deal": 50
+    },
+    {
+        "id": 52,
+        "image1": "https://m.media-amazon.com/images/I/61Yn0jEnTDL._SX679_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/613eJMPbXyL._SX679_.jpg",
+        "brand": "SNOWIE SOFT",
+        "title": "Baby Stroller Storage Bag",
+        "rating": 4,
+        "price": 539,
+        "prevPrice": 1007,
+        "deal": 56
+    },
+    {
+        "id": 53,
+        "image1": "https://m.media-amazon.com/images/I/41t2O9LDKML.jpg",
+        "image2": "https://m.media-amazon.com/images/I/515X+5JJjpL._SX522_.jpg",
+        "brand": "Selibration",
+        "title": "Rocking Horse Shape Foil Balloons",
+        "rating": 3,
+        "price": 273,
+        "prevPrice": 546,
+        "deal": 50
+    },
+    {
+        "id": 54,
+        "image1": "https://m.media-amazon.com/images/I/61PcQvXDWoL._SX522_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/41QFcQv88dL.jpg",
+        "brand": "The Moms Co",
+        "title": "Hair Care Essentials for Baby",
+        "rating": 5,
+        "price": 600,
+        "prevPrice": 750,
+        "deal": 20
+    },
+    {
+        "id": 55,
+        "image1": "https://m.media-amazon.com/images/I/51EkbXEXGYL._SX679_PIbundle-2,TopRight,0,0_AA679SH20_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/61jqqsUKr-L._SX679_.jpg",
+        "brand": "MY NEWBORN",
+        "title": "Hooded Blanket Wrapper",
+        "rating": 2,
+        "price": 445,
+        "prevPrice": 1800,
+        "deal": 75
+    },
+    {
+        "id": 56,
+        "image1": "https://m.media-amazon.com/images/I/81eq30Sv6HL._SX679_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/71B+fkEoVIL._SX679_.jpg",
+        "brand": "Johnson & Johnson",
+        "title": "Care Collection",
+        "rating": 5,
+        "price": 363,
+        "prevPrice": 400,
+        "deal": 9
+    },
+    {
+        "id": 57,
+        "image1": "https://m.media-amazon.com/images/I/6180BoPe8XL._SX679_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/81kAwZdmfWL._SX679_.jpg",
+        "brand": "MOM CARES",
+        "title": "Baby Knee & Elbow Guard/pad",
+        "rating": 4,
+        "price": 379,
+        "prevPrice": 999,
+        "deal": 62
+    },
+    {
+        "id": 58,
+        "image1": "https://m.media-amazon.com/images/I/41m332D5LnL._SX679_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/51ftphOnMaL._SX679_.jpg",
+        "brand": "Baby Dove",
+        "title": "Hair to Toe Baby Wash",
+        "rating": 4,
+        "price": 215,
+        "prevPrice": 315,
+        "deal": 32
+    },
+    {
+        "id": 59,
+        "image1": "https://m.media-amazon.com/images/I/61MXtxvImKL._SX679_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/6165neEfl5L._SX679_.jpg",
+        "brand": "LuvLap",
+        "title": "Disposable Mouth Swabs",
+        "rating": 2,
+        "price": 399,
+        "prevPrice": 569,
+        "deal": 30
+    },
+    {
+        "id": 60,
+        "image1": "https://m.media-amazon.com/images/I/61efkHSMrFL._SX679_PIbundle-2,TopRight,0,0_AA679SH20_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/61CC8oYAnFS._SX679_.jpg",
+        "brand": "Himalaya",
+        "title": "Gentle Baby Wipes",
+        "rating": 3,
+        "price": 283,
+        "prevPrice": 318,
+        "deal": 8
+    }
+]

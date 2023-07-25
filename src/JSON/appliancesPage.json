@@ -1,0 +1,112 @@
+[
+    {
+        "id": 71,
+        "image1": "https://m.media-amazon.com/images/I/21997wd3e4L._SY445_SX342_QL70_FMwebp_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/716RBCktQNL._SX679_.jpg",
+        "brand": "Daikin",
+        "title": "0.8 Ton 3 Star Split AC",
+        "rating": 2,
+        "price": 27900,
+        "prevPrice": 37890,
+        "deal": 60
+    },
+    {
+        "id": 72,
+        "image1": "https://m.media-amazon.com/images/I/81GjM+JY4DS._SX679_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/71UnlU3xIfL._SX679_.jpg",
+        "brand": "Havells",
+        "title": "1.0 Ton 3 Star Window AC",
+        "rating": 4,
+        "price": 22500,
+        "prevPrice": 33900,
+        "deal": 28
+    },
+    {
+        "id": 73,
+        "image1": "https://m.media-amazon.com/images/I/41elGLqejTL._SX679_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/61V12zZkPEL._SX679_.jpg",
+        "brand": "Bizarre",
+        "title": "Double Door Side By Side Refrigerator",
+        "rating": 3,
+        "price": 45000,
+        "prevPrice": 56990,
+        "deal": 26
+    },
+    {
+        "id": 74,
+        "image1": "https://m.media-amazon.com/images/I/71DJffKcMZL._SY741_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/71tfyQxmKQL._SX679_.jpg",
+        "brand": "Samsung",
+        "title": "4 Star Single Door Refrigerator",
+        "rating": 5,
+        "price": 16490,
+        "prevPrice": 19990,
+        "deal": 20
+    },
+    {
+        "id": 75,
+        "image1": "https://m.media-amazon.com/images/I/7140rbJD8ZL._SY741_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/714AIonoXJL._SX679_.jpg",
+        "brand": "Samsung",
+        "title": "2 Star Frost Free Refrigerator",
+        "rating": 2,
+        "price": 24690,
+        "prevPrice": 32990,
+        "deal": 25
+    },
+    {
+        "id": 76,
+        "image1": "https://m.media-amazon.com/images/I/710GdqOStIL._SX679_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/71tO0lLrzxL._SX679_.jpg",
+        "brand": "Samsung",
+        "title": "23 L Solo Microwave Oven",
+        "rating": 5,
+        "price": 6190,
+        "prevPrice": 8090,
+        "deal": 23
+    },
+    {
+        "id": 77,
+        "image1": "https://m.media-amazon.com/images/I/61pDIEAuU1L._SX679_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/614Yq7IY-9L._SX679_.jpg",
+        "brand": "Bajaj",
+        "title": "Solo Microwave Oven",
+        "rating": 4,
+        "price": 5790,
+        "prevPrice": 7899,
+        "deal": 27
+    },
+    {
+        "id": 78,
+        "image1": "https://m.media-amazon.com/images/I/91fSgD70z0L._SX679_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/8164ihA6jOL._SX679_.jpg",
+        "brand": "LG",
+        "title": "Convection Microwave Oven",
+        "rating": 4,
+        "price": 16899,
+        "prevPrice": 23999,
+        "deal": 30
+    },
+    {
+        "id": 79,
+        "image1": "https://m.media-amazon.com/images/I/71vTP0Kyl4L._SY741_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/71AQPZV1nLL._SY741_.jpg",
+        "brand": "Lloyd",
+        "title": "Front load washing machine",
+        "rating": 2,
+        "price": 25990,
+        "prevPrice": 36990,
+        "deal": 30
+    },
+    {
+        "id": 80,
+        "image1": "https://m.media-amazon.com/images/I/51MMO-Xl8qL._SX679_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/71TXJ-AXTsL._SX679_.jpg",
+        "brand": "Whirlpool",
+        "title": "Top Loading Washing Machine",
+        "rating": 3,
+        "price": 13790,
+        "prevPrice": 18990,
+        "deal": 26
+    }
+]

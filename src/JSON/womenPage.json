@@ -1,0 +1,112 @@
+[
+    {
+        "id": 21,
+        "image1": "https://m.media-amazon.com/images/I/61oo7ZLfWqL._UY741_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/71BTz461CdL._UY741_.jpg",
+        "brand": "SWORNOF",
+        "title": "Women's Lucknowi_chikankari Saree",
+        "rating": 4,
+        "price": 949,
+        "prevPrice": 3500,
+        "deal": 73
+    },
+    {
+        "id": 22,
+        "image1": "https://m.media-amazon.com/images/I/61OfA-kZweL._UY695_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/51-R7Js-mGL._UY695_.jpg",
+        "brand": "Denill",
+        "title": "Pump Block Heel",
+        "rating": 3,
+        "price": 499,
+        "prevPrice": 899,
+        "deal": 35
+    },
+    {
+        "id": 23,
+        "image1": "https://m.media-amazon.com/images/I/614YzxulktL._UY879_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/81m4gNkua2L._UY741_.jpg",
+        "brand": "Rhysley",
+        "title": "Floral Printed V- Neck Dress",
+        "rating": 2,
+        "price": 1499,
+        "prevPrice": 3099,
+        "deal": 52
+    },
+    {
+        "id": 24,
+        "image1": "https://m.media-amazon.com/images/I/91xw5En1A+L._UX569_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/61szwdYRkgL._UX522_.jpg",
+        "brand": "STYLEDOSE",
+        "title": "Analogue Black Dial Magnet Watch",
+        "rating": 3,
+        "price": 299,
+        "prevPrice": 999,
+        "deal": 70
+    },
+    {
+        "id": 25,
+        "image1": "https://m.media-amazon.com/images/I/71MZyoEvzEL._UX679_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/71i2Tw0YaCL._UY741_.jpg",
+        "brand": "Khushal",
+        "title": "Rayon Flared Kurta",
+        "rating": 5,
+        "price": 1325,
+        "prevPrice": 1799,
+        "deal": 35
+    },
+    {
+        "id": 26,
+        "image1": "https://m.media-amazon.com/images/I/61lZtJBldCL._UY695_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/41Obg1qBAKL.jpg",
+        "brand": "Bizarre Vogue",
+        "title": "Chain Strap Handbag",
+        "rating": 3,
+        "price": 354,
+        "prevPrice": 1499,
+        "deal": 76
+    },
+    {
+        "id": 27,
+        "image1": "https://m.media-amazon.com/images/I/81qnWv6CWPL._UY625_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/81-NSrFEAeL._UY625_.jpg",
+        "brand": "Sasitrends",
+        "title": "Oxidised Silver Kolhapuri Necklace",
+        "rating": 4,
+        "price": 299,
+        "prevPrice": 3000,
+        "deal": 70
+    },
+    {
+        "id": 28,
+        "image1": "https://m.media-amazon.com/images/I/81ZooymlLSS._UY741_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/81slZkqHGpS._UY741_.jpg",
+        "brand": "Fast Fashions",
+        "title": "Chain Stitch Net Lehenga Choli",
+        "rating": 4,
+        "price": 699,
+        "prevPrice": 3199,
+        "deal": 78
+    },
+    {
+        "id": 29,
+        "image1": "https://m.media-amazon.com/images/I/51b5pVEkIXL._SX522_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/71GZijrMvCL._SX522_.jpg",
+        "brand": "RENEE",
+        "title": "Long Lasting Matte Finish",
+        "rating": 5,
+        "price": 600,
+        "prevPrice": 750,
+        "deal": 20
+    },
+    {
+        "id": 30,
+        "image1": "https://m.media-amazon.com/images/I/617Y61foBsL._UY741_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/51GELB31hHL._UY741_.jpg",
+        "brand": "The Souled Store",
+        "title": "Multicolored Printed Oversized T-Shirt",
+        "rating": 2,
+        "price": 839,
+        "prevPrice": 1499,
+        "deal": 44
+    }
+]

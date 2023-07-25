@@ -1,0 +1,53 @@
+.backToTopContainer {
+    background-color: rgb(59, 60, 68);
+}
+
+.backToTopContainer:hover {
+    background-color: rgb(81, 83, 94);
+}
+
+.sections {
+    background-color: rgb(46, 47, 53);
+}
+
+.backToTop {
+    font-size: 85%;
+}
+
+.backToTop:hover {
+    text-decoration: none;
+}
+
+.link {
+    font-size: 90%;
+    line-height: 5px;
+    text-decoration: none;
+    color: rgb(223, 223, 223);
+    display: flex;
+    justify-content: center;
+}
+
+.link:hover {
+    text-decoration: none;
+    color: rgb(223, 223, 223);
+}
+
+.sec:hover {
+    text-decoration: underline;
+    color: white;
+}
+
+.section__title {
+    text-align: center;
+}
+
+#copyright {
+    font-size: 70%;
+}
+
+#helpp {
+    font-size: 85%;
+    color: rgb(240, 240, 240);
+    justify-content: space-evenly;
+    max-width: 500px;
+}

@@ -1,0 +1,76 @@
+.header__navbarTop {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    max-width: 100%;
+}
+
+.header__nav {
+    justify-content: space-evenly;
+    margin-top: 3px;
+}
+
+.header__link {
+    color: white;
+    text-decoration: none;
+}
+
+.header__link:hover {
+    border-radius: 2px;
+    color: white;
+    box-shadow: 0px 0px 0px 1px white inset;
+}
+
+.header__option {
+    display: flex;
+    flex-direction: column;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.header__option__cart {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.header__optionLineOne {
+    font-size: 11px;
+}
+
+.header__optionLineTwo {
+    font-size: 13px;
+    font-weight: 800;
+}
+
+.header__optionCart {
+    display: flex;
+}
+
+#amazon__logo {
+    padding: 5px;
+}
+
+#amazon__logo:hover {
+    border-radius: 2px;
+    box-shadow: 0px 0px 0px 1px white inset;
+}
+
+.header__searchIcon {
+    color: black;
+}
+
+.header__searchIcon:hover {
+    background-color: rgb(228, 168, 30);
+}
+
+@media only screen and (max-width: 991px) {
+    #cart__icon {
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 991px) {
+    .header__link__dup {
+        display: none;
+    }
+}

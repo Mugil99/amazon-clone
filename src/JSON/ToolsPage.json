@@ -1,0 +1,112 @@
+[
+    {
+        "id": 31,
+        "image1": "https://m.media-amazon.com/images/I/81C0wrCFdDL._SY500_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/91lgFf4QRKL._SX522_.jpg",
+        "brand": "Bosch",
+        "title": "2200-Watt 14-inch Chop Saw Machine",
+        "rating": 4,
+        "price": 6999,
+        "prevPrice": 8999,
+        "deal": 23
+    },
+    {
+        "id": 32,
+        "image1": "https://m.media-amazon.com/images/I/81fP7IRuKKL._SY741_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/517P1vhZUuL.jpg",
+        "brand": "Bosch",
+        "title": "Corded-Electric Drill Tool Set",
+        "rating": 3,
+        "price": 4298,
+        "prevPrice": 7565,
+        "deal": 35
+    },
+    {
+        "id": 33,
+        "image1": "https://m.media-amazon.com/images/I/71NVPHBDEmL._SX522_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/71JiVei4BsL._SX522_.jpg",
+        "brand": "AmazonBasics",
+        "title": "Multi-Purpose Wire Stripper",
+        "rating": 2,
+        "price": 399,
+        "prevPrice": 900,
+        "deal": 56
+    },
+    {
+        "id": 34,
+        "image1": "https://m.media-amazon.com/images/I/71+FOGdf6cL._SX522_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/51xyJrjzBkL._SX522_.jpg",
+        "brand": "IBELL",
+        "title": "DM40-02 Classic Laser Measure",
+        "rating": 3,
+        "price": 1854,
+        "prevPrice": 2700,
+        "deal": 31
+    },
+    {
+        "id": 35,
+        "image1": "https://m.media-amazon.com/images/I/61NAiQBFO7L._SX522_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/71f6ajkewBL._SX522_.jpg",
+        "brand": "Inditrust",
+        "title": "Digital Distance Laser Level Meter",
+        "rating": 5,
+        "price": 699,
+        "prevPrice": 900,
+        "deal": 35
+    },
+    {
+        "id": 36,
+        "image1": "https://m.media-amazon.com/images/I/71UpuxQrSlL._SX522_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/71t7kpNYpKL._SX522_.jpg",
+        "brand": "Spotzero",
+        "title": "Milton Prime Spin Mop",
+        "rating": 3,
+        "price": 1299,
+        "prevPrice": 2999,
+        "deal": 76
+    },
+    {
+        "id": 37,
+        "image1": "https://m.media-amazon.com/images/I/61nyhR7S0SL._SX679_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/61RZMR1bf4L._SX679_.jpg",
+        "brand": "SKYTONE",
+        "title": "Flexible Fan Cleaning Duster",
+        "rating": 4,
+        "price": 349,
+        "prevPrice": 799,
+        "deal": 54
+    },
+    {
+        "id": 38,
+        "image1": "https://m.media-amazon.com/images/I/51jdquQ3BvS._SX522_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/71xbmhC0VIS._SX522_.jpg",
+        "brand": "Alis",
+        "title": "3 Pcs Suturing Tool Kit",
+        "rating": 4,
+        "price": 699,
+        "prevPrice": 1299,
+        "deal": 52
+    },
+    {
+        "id": 39,
+        "image1": "https://m.media-amazon.com/images/I/71rfjVe29ML._SX466_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/71XO8IWAteL._SY500_.jpg",
+        "brand": "Bildos",
+        "title": "Disposable Surgical Face Mask",
+        "rating": 5,
+        "price": 289,
+        "prevPrice": 999,
+        "deal": 71
+    },
+    {
+        "id": 40,
+        "image1": "https://m.media-amazon.com/images/I/81xvKRhpMgL._SX522_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/71Sr6w9uDGL._SX522_.jpg",
+        "brand": "STANLEY",
+        "title": "Double Open End Spanner Set 8-Piece",
+        "rating": 2,
+        "price": 260,
+        "prevPrice": 341,
+        "deal": 24
+    }
+]

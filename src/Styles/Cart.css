@@ -1,0 +1,27 @@
+.cart__image {
+    max-height: 179px;
+    min-height: 179px;
+    width: 100%;
+    object-fit: contain;
+}
+
+.cart__content{
+    margin-left: 10px;
+}
+
+.in__stock {
+    font-size: 80%;
+}
+
+.cart__title {
+    font-size: 110%;
+}
+
+.cart__sec1,
+.checkout__card {
+    background-color: white;
+}
+
+.price_small_ {
+    font-size: 90%;
+}

@@ -1,0 +1,112 @@
+[
+    {
+        "id": 11,
+        "image1": "https://m.media-amazon.com/images/I/71NA9Q0rPTL._SX679_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/61+0nzNihXL._SX679_.jpg",
+        "brand": "Homeify",
+        "title": "6 Seater L Shape Sofa Set",
+        "rating": 4,
+        "price": 7724,
+        "prevPrice": 15266,
+        "deal": 49
+    },
+    {
+        "id": 12,
+        "image1": "https://m.media-amazon.com/images/I/816BSTUdXfL._SY679_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/813dWlEqgZL._SY679_.jpg",
+        "brand": "Fashion String",
+        "title": "Microfibre Brown Double Bedsheet",
+        "rating": 3,
+        "price": 229,
+        "prevPrice": 999,
+        "deal": 77
+    },
+    {
+        "id": 13,
+        "image1": "https://m.media-amazon.com/images/I/71PeS86nARL._SX679_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/81k-Lu8DVRL._SX679_.jpg",
+        "brand": "BFAM",
+        "title": "Sheer Blackout Curtain",
+        "rating": 2,
+        "price": 1199,
+        "prevPrice": 4299,
+        "deal": 72
+    },
+    {
+        "id": 14,
+        "image1": "https://m.media-amazon.com/images/I/813dYaCJLZL._SX522_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/81dIeXaSylL._SX522_.jpg",
+        "brand": "Saumic Craft",
+        "title": "Framed Wall Painting",
+        "rating": 5,
+        "price": 1499,
+        "prevPrice": 2499,
+        "deal": 40
+    },
+    {
+        "id": 15,
+        "image1": "https://m.media-amazon.com/images/I/710UUcCHTjL._SX679_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/71TbIu-GkyL._SX679_.jpg",
+        "brand": "Wolpin",
+        "title": "Multi-Purpose Shoe Rack",
+        "rating": 2,
+        "price": 959,
+        "prevPrice": 1499,
+        "deal": 36
+    },
+    {
+        "id": 16,
+        "image1": "https://m.media-amazon.com/images/I/71Xwt99v+BL._SX522_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/61mMQW84pJL._SX522_.jpg",
+        "brand": "NIYAMAX",
+        "title": "3D Moon Lamp",
+        "rating": 4,
+        "price": 616,
+        "prevPrice": 1299,
+        "deal": 53
+    },
+    {
+        "id": 17,
+        "image1": "https://m.media-amazon.com/images/I/81Dztt32ojL._SX679_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/71-wzKDKH6L._SX679_.jpg",
+        "brand": "Webelkart",
+        "title": "Ganesha Wall Clock",
+        "rating": 3,
+        "price": 328,
+        "prevPrice": 1999,
+        "deal": 84
+    },
+    {
+        "id": 18,
+        "image1": "https://m.media-amazon.com/images/I/71oU0TxLjXL._SX679_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/81s86kRrWFL._SX679_.jpg",
+        "brand": "Ormee",
+        "title": "Wooden Coffee Table",
+        "rating": 4,
+        "price": 11999,
+        "prevPrice": 29999,
+        "deal": 60
+    },
+    {
+        "id": 19,
+        "image1": "https://m.media-amazon.com/images/I/71CW2St8bQL._SX466_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/611VegXwZ2L._SY500_.jpg",
+        "brand": "CRAFTSDEC",
+        "title": "Round Cluster Aluminium Hanging",
+        "rating": 3,
+        "price": 1249,
+        "prevPrice": 4999,
+        "deal": 75
+    },
+    {
+        "id": 20,
+        "image1": "https://m.media-amazon.com/images/I/41lWRBzKzgL.jpg",
+        "image2": "https://m.media-amazon.com/images/I/51X9IGloTjL.jpg",
+        "brand": "TechSrmaji",
+        "title": "Triangle Magazine Organizer Rack",
+        "rating": 4,
+        "price": 259,
+        "prevPrice": 599,
+        "deal": 57
+    }
+]

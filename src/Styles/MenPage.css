@@ -1,0 +1,29 @@
+.men__image2 {
+    max-height: 300px;
+    min-height: 300px;
+    width: 100%;
+    object-fit: contain;
+}
+
+.men__image1 {
+    max-height: 300px;
+    min-height: 300px;
+    width: 100%;
+    object-fit: contain;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    -webkit-transition: opacity 0.3s ease-in-out;
+    -moz-transition: opacity 0.3s ease-in-out;
+    -o-transition: opacity 0.3s ease-in-out;
+    transition: opacity 0.3s ease-in-out;
+    background-color: white;
+}
+
+.men__image1:hover {
+    opacity: 0;
+}
+
+.space_after {
+    margin-left: 10px;
+}
